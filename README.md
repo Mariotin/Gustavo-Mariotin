@@ -2,6 +2,7 @@
 Meus Projetos Pessoais 
 
 ### Front End
+**[Case Brainn](https://github.com/future4code/ailton-Gustavo-Moreira/pull/71)**
 
 ### Back End
 **[Case Amaro](https://github.com/future4code/ailton-Gustavo-Moreira/pull/70)**
